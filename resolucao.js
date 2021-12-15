@@ -54,7 +54,7 @@ function fixQuantity(quantity){
 
 // corrige os preços
 function fixPrice(price){
-    return parseInt(price); // transforma tipo string em tipo number
+    return Number(price); // transforma tipo string em tipo number
 } //https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/parseInt
 
 // salva o arquivo
