@@ -1,1 +1,0 @@
-# teste-pratico-rocky-wa
